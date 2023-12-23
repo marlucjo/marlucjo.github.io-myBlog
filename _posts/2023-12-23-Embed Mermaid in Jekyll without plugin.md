@@ -5,7 +5,7 @@ subtitle:
 show-img: true
 tags: [Jekyll, Mermaid, Github, howto]
 mermaid: true
-cover-img: "/assets/img/head/code.jpg"
+cover-img: "/assets/img/head.jpg"
 thumbnail-img: "/img/post/2023-12-23/mermaid.jpg"
 ---
 
