@@ -6,7 +6,7 @@ show-img: true
 tags: [Jekyll, Mermaid, Github, howto]
 mermaid: true
 cover-img: "/assets/img/head/code.jpg"
-thumbnail-img: "/img/posts/2021-05-09/mermaid.jpg"
+thumbnail-img: "/img/post/2023-12-23/mermaid.jpg"
 ---
 
 Mermaid is a simple markdown-like script language for generating charts from text via javascript.
