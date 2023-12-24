@@ -2,7 +2,6 @@
 layout: post
 title: Mermaid
 subtitle: Embed Mermaid in Jekyll without plugin
-subtitle:
 show-img: true
 tags: [Jekyll, Mermaid, Github, howto]
 mermaid: true
